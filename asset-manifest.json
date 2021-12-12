@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/praveen-soni-by/react-router-6/static/css/main.9cba5a65.chunk.css",
+    "main.js": "/praveen-soni-by/react-router-6/static/js/main.d2f7604e.chunk.js",
+    "main.js.map": "/praveen-soni-by/react-router-6/static/js/main.d2f7604e.chunk.js.map",
+    "runtime-main.js": "/praveen-soni-by/react-router-6/static/js/runtime-main.06961258.js",
+    "runtime-main.js.map": "/praveen-soni-by/react-router-6/static/js/runtime-main.06961258.js.map",
+    "static/js/2.81bf793b.chunk.js": "/praveen-soni-by/react-router-6/static/js/2.81bf793b.chunk.js",
+    "static/js/2.81bf793b.chunk.js.map": "/praveen-soni-by/react-router-6/static/js/2.81bf793b.chunk.js.map",
+    "static/js/3.60553b79.chunk.js": "/praveen-soni-by/react-router-6/static/js/3.60553b79.chunk.js",
+    "static/js/3.60553b79.chunk.js.map": "/praveen-soni-by/react-router-6/static/js/3.60553b79.chunk.js.map",
+    "index.html": "/praveen-soni-by/react-router-6/index.html",
+    "static/css/main.9cba5a65.chunk.css.map": "/praveen-soni-by/react-router-6/static/css/main.9cba5a65.chunk.css.map",
+    "static/js/2.81bf793b.chunk.js.LICENSE.txt": "/praveen-soni-by/react-router-6/static/js/2.81bf793b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06961258.js",
+    "static/js/2.81bf793b.chunk.js",
+    "static/css/main.9cba5a65.chunk.css",
+    "static/js/main.d2f7604e.chunk.js"
+  ]
+}
